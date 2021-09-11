@@ -1,0 +1,9 @@
+name: wPaintball
+main: me.wolf.wpaintball.PaintballPlugin
+version: 1.0.0
+description: Paintball Minigame
+author: ${project.author}
+api-version: 1.13
+
+
+

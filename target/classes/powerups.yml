@@ -1,0 +1,57 @@
+powerups:
+  '1':
+    icon: "EGG"
+    icon-display: "&bTriple Shot"
+    name: "Triple Shot"
+    enabled: true
+    price: 3
+    duration: 10
+  '2':
+    icon: "SNOWBALL"
+    icon-display: "&bQuintuple Shot"
+    name: "Quintuple Shot"
+    enabled: true
+    price: 5
+    duration: 10
+  '3':
+    icon: "APPLE"
+    icon-display: "&b+3 Lives"
+    name: "+3"
+    enabled: true
+    price: 3
+    duration: 1
+  '4':
+    icon: "GOLDEN_APPLE"
+    icon-display: "&b+5 Lives"
+    name: "+5"
+    enabled: true
+    price: 5
+    duration: 1
+  '5':
+    icon: "DIAMOND_HOE"
+    icon-display: "&cSuper Strong Arm"
+    name: "Super Strongarm"
+    enabled: true
+    price: 7
+    duration: 10
+  '6':
+    icon: "BOW"
+    icon-display: "&bStrongarm"
+    name: "Strongarm"
+    enabled: true
+    price: 4
+    duration: 10
+  '7':
+    icon: "ANVIL"
+    icon-display: "&bExtra Ammo"
+    name: "ammo"
+    enabled: true
+    price: 5
+    duration: 1
+  '8':
+    icon: "TNT"
+    icon-display: "&cNuke"
+    name: "nuke"
+    enabled: true
+    price: 20
+    duration: 5
