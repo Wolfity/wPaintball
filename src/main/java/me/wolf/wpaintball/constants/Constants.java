@@ -2,7 +2,7 @@ package me.wolf.wpaintball.constants;
 
 import me.wolf.wpaintball.utils.Utils;
 
-public class Constants {
+public final class Constants {
 
     public static class Messages {
         public static final String ADMIN_HELP = Utils.colorize(
@@ -11,8 +11,10 @@ public class Constants {
                         "&b/pb deletearena <arena> &7- Deletes an arena\n" +
                         "&b/pb setworldspawn &7- Sets the world spawn \n" +
                         "&b/pb setlobby <arena> &7- Sets the lobby for the arena \n" +
-                        "&b/pb setspawn <arena> &7- Sets a spawn point for the arena\n" +
+                        "&b/pb setredspawn <arena> &7- Sets a spawn point for red team \n" +
+                        "&b/pb setbluespawn <arena> &7- Sets a spawn point for the blue team\n" +
                         "&b/pb tp <arena> &7- Teleports you to the arena\n" +
+                        "&b/pb admin &7- Displays the admin help message\n" +
                         "&7[-------&bPB &cAdmin &bHelp&7-------]");
 
         public static final String HELP = Utils.colorize(
